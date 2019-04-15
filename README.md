@@ -4,7 +4,7 @@ In this example, we create within our main view (self.view) three views, v1, v2,
 
 
 View configurations 1  
-![Configuration1](https://github.com/Lilyeka/ConstraintsAsObjects/blob/master/ConstraintsAsObjects/views%26constraints%201.png "Configuration1")
+![Configuration1](https://github.com/Lilyeka/ConstraintsAsObjects/blob/master/ConstraintsAsObjects/views%26constraints%2011.png "Configuration1")
 
 
 View configurations 2
