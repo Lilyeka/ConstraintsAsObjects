@@ -1,7 +1,7 @@
 # ConstraintsAsObjects
 In this example, we create within our main view (self.view) three views, v1, v2, and v3, which are red, yellow, and blue rectangles respectively. For some reason, we will later want to remove the yellow view (v2) dynamically as the app runs, moving the blue view to where the yellow view was; and then, still later, we will want to insert the yellow view once again. So we have two alternating view configurations. 
 
-![Configuration1](ConstraintsAsObjects/views&constraints1.png?raw=true "Configuration1")
+![Configuration1](https://github.com/Lilyeka/ConstraintsAsObjects/blob/master/ConstraintsAsObjects/views%26constraints%201.png "Configuration1")
 
 ![Configuration2](ConstraintsAsObjects/views&constraints2.png?raw=true "Configuration2")
 
