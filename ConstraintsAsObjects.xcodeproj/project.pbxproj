@@ -12,6 +12,8 @@
 		610848A52264A6D600D66E53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 610848A32264A6D600D66E53 /* Main.storyboard */; };
 		610848A72264A6D900D66E53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 610848A62264A6D900D66E53 /* Assets.xcassets */; };
 		610848AA2264A6D900D66E53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 610848A82264A6D900D66E53 /* LaunchScreen.storyboard */; };
+		610848B22264AB6B00D66E53 /* views&constraints 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 610848B12264AB6B00D66E53 /* views&constraints 1.png */; };
+		610848B42264AB7200D66E53 /* views&constraints 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 610848B32264AB7200D66E53 /* views&constraints 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		610848A62264A6D900D66E53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		610848A92264A6D900D66E53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		610848AB2264A6D900D66E53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		610848B12264AB6B00D66E53 /* views&constraints 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "views&constraints 1.png"; sourceTree = "<group>"; };
+		610848B32264AB7200D66E53 /* views&constraints 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "views&constraints 2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				610848A62264A6D900D66E53 /* Assets.xcassets */,
 				610848A82264A6D900D66E53 /* LaunchScreen.storyboard */,
 				610848AB2264A6D900D66E53 /* Info.plist */,
+				610848B12264AB6B00D66E53 /* views&constraints 1.png */,
+				610848B32264AB7200D66E53 /* views&constraints 2.png */,
 			);
 			path = ConstraintsAsObjects;
 			sourceTree = "<group>";
@@ -125,6 +131,8 @@
 				610848AA2264A6D900D66E53 /* LaunchScreen.storyboard in Resources */,
 				610848A72264A6D900D66E53 /* Assets.xcassets in Resources */,
 				610848A52264A6D600D66E53 /* Main.storyboard in Resources */,
+				610848B22264AB6B00D66E53 /* views&constraints 1.png in Resources */,
+				610848B42264AB7200D66E53 /* views&constraints 2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
